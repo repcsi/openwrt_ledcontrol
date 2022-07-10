@@ -20,6 +20,8 @@ ledcontrol.sh disable
 To enable the leds (restore the state):
 ledcontrol.sh restore
 
+In V21 "tp-link:" was removed from the led sys urls.
+
 Crontab:
 ```shell
 # crontab -l
